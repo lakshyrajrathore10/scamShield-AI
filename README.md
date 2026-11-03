@@ -1,5 +1,10 @@
 # scamShield-AI 🛡️
 
+[![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-6-purple.svg)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38bdf8.svg)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](#-license)
+
 ScamShield AI is an intelligent real-time scam and threat detection platform built with React, Tailwind CSS, and Vite.
 
 ## 🚀 Features
@@ -36,3 +41,7 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## 📄 License
+
+This project is licensed under the MIT License.
